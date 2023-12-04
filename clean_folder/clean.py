@@ -3,7 +3,8 @@ import shutil
 import unicodedata
 from pathlib import Path
 import sys
-
+'''  name_repo git remote add origin https://github.com/AndreyFun/homework.git
+  git push -u origin main'''
 
 def main():
     
